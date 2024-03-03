@@ -1,0 +1,16 @@
+D:\1. University\TP\KPL\tp_03_1302223116\tp_03_1302223116\bin\Debug\net8.0-windows\tp_03_1302223116.exe
+D:\1. University\TP\KPL\tp_03_1302223116\tp_03_1302223116\bin\Debug\net8.0-windows\tp_03_1302223116.deps.json
+D:\1. University\TP\KPL\tp_03_1302223116\tp_03_1302223116\bin\Debug\net8.0-windows\tp_03_1302223116.runtimeconfig.json
+D:\1. University\TP\KPL\tp_03_1302223116\tp_03_1302223116\bin\Debug\net8.0-windows\tp_03_1302223116.dll
+D:\1. University\TP\KPL\tp_03_1302223116\tp_03_1302223116\bin\Debug\net8.0-windows\tp_03_1302223116.pdb
+D:\1. University\TP\KPL\tp_03_1302223116\tp_03_1302223116\obj\Debug\net8.0-windows\tp_03_1302223116.Form1.resources
+D:\1. University\TP\KPL\tp_03_1302223116\tp_03_1302223116\obj\Debug\net8.0-windows\tp_03_1302223116.csproj.GenerateResource.cache
+D:\1. University\TP\KPL\tp_03_1302223116\tp_03_1302223116\obj\Debug\net8.0-windows\tp_03_1302223116.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. University\TP\KPL\tp_03_1302223116\tp_03_1302223116\obj\Debug\net8.0-windows\tp_03_1302223116.AssemblyInfoInputs.cache
+D:\1. University\TP\KPL\tp_03_1302223116\tp_03_1302223116\obj\Debug\net8.0-windows\tp_03_1302223116.AssemblyInfo.cs
+D:\1. University\TP\KPL\tp_03_1302223116\tp_03_1302223116\obj\Debug\net8.0-windows\tp_03_1302223116.csproj.CoreCompileInputs.cache
+D:\1. University\TP\KPL\tp_03_1302223116\tp_03_1302223116\obj\Debug\net8.0-windows\tp_03_1302223116.dll
+D:\1. University\TP\KPL\tp_03_1302223116\tp_03_1302223116\obj\Debug\net8.0-windows\refint\tp_03_1302223116.dll
+D:\1. University\TP\KPL\tp_03_1302223116\tp_03_1302223116\obj\Debug\net8.0-windows\tp_03_1302223116.pdb
+D:\1. University\TP\KPL\tp_03_1302223116\tp_03_1302223116\obj\Debug\net8.0-windows\tp_03_1302223116.genruntimeconfig.cache
+D:\1. University\TP\KPL\tp_03_1302223116\tp_03_1302223116\obj\Debug\net8.0-windows\ref\tp_03_1302223116.dll
